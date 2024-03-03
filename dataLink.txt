@@ -1,0 +1,2 @@
+/kaggle/input/diabetes-prediction-dataset
+/kaggle/input/diabetes-prediction-dataset/diabetes_prediction_dataset.csv
